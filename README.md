@@ -34,3 +34,6 @@
 - https://noflojs.org/
 - https://www.fusejs.io/
 - https://github.com/radix-ui/themes
+- https://bpmn.io/toolkit/dmn-js/
+- https://bpmn.io/toolkit/form-js/
+- https://bpmn.io/toolkit/bpmn-js/
