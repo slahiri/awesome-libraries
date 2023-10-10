@@ -20,4 +20,16 @@
 - https://vitejs.dev/
 - https://axios-http.com/docs/intro
 - https://codemirror.net/
+- https://emotion.sh/docs/introduction
+- https://mui.com/
+- https://formik.org/
+- https://www.framer.com/motion/
+- https://notistack.com/
+- https://prismjs.com/
+- https://reactflow.dev/
+- https://jsonforms.io/examples/basic
+- https://lerna.js.org/
+- https://ant.design/
+- https://retejs.org/
+- https://noflojs.org/
 - 
