@@ -14,4 +14,7 @@
 - https://virtuoso.dev/keyboard-navigation/
 - https://github.com/pmndrs/zustand
 - https://storybook.js.org/
+- https://typicode.github.io/husky/
+- https://www.npmjs.com/package/octokit
+- https://www.npmjs.com/package/shelljs
 - 
