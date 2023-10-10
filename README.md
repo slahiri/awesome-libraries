@@ -37,3 +37,8 @@
 - https://bpmn.io/toolkit/dmn-js/
 - https://bpmn.io/toolkit/form-js/
 - https://bpmn.io/toolkit/bpmn-js/
+- https://preactjs.com/
+- https://mikemcl.github.io/big.js/
+- https://archimodel.net/
+- https://bpt-lab.org/chor-js-demo/
+- https://timkraeuter.com/object-diagram-modeler/
