@@ -17,4 +17,7 @@
 - https://typicode.github.io/husky/
 - https://www.npmjs.com/package/octokit
 - https://www.npmjs.com/package/shelljs
+- https://vitejs.dev/
+- https://axios-http.com/docs/intro
+- https://codemirror.net/
 - 
