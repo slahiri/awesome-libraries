@@ -43,4 +43,5 @@
 - https://bpt-lab.org/chor-js-demo/
 - https://timkraeuter.com/object-diagram-modeler/
 - https://clerk.com/
-- https://yt-pageform.vercel.app/submit/c4765302-3b6d-40d6-a161-097e57d9bf47
+- https://ui.shadcn.com/
+- https://www.npmjs.com/package/next-themes
